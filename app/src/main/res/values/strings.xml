@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">City Advisor</string>
+    <string name="btnText">Find Cities</string>
+    <string-array name="provinces">
+        <item> Western </item>
+        <item>Eastern</item>
+        <item> Northern </item>
+        <item> Southern </item>
+        <item>North Western</item>
+        <item> North Central </item>
+        <item> Central </item>
+        <item> Sabaragamuwa </item>
+        <item> Uva </item>
+
+    </string-array>
+</resources>
